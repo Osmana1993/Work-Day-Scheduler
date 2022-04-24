@@ -1,7 +1,9 @@
+# challenge_5
+
 # Work Day Scheduler Starter Code
 
 ## Description
-this is a simple calendar application that allows a user to save events for each hour of the day.## Table Of Content
+this is a simple calendar application that allows a user to save events for each hour of the day.
 
 ## Table of content
 - [Description](#description)
@@ -14,7 +16,7 @@ this is a simple calendar application that allows a user to save events for each
 ## Built With
 * HTML
 * CSS
-* Jquery
+* jQuery
 * Bootstrap
 
 ## Usage
@@ -22,6 +24,6 @@ this is a simple calendar application that allows a user to save events for each
 
 
 ## Website
-
+https://osmana1993.github.io/challenge_5/
 ## Contribution
 Made with ❤️ by [Osman Ali]
